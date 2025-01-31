@@ -1,4 +1,4 @@
-'''git test'''
+
 def bis_balid():# checking an introduced boundary
     while True:
         num = input('Введите правую границу для случайного выбора числа (граница должна быть целым числом > 1):')
